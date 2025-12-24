@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaifshaikh786/kaifshaikh786.github.io/main/assets/logo.png" width="120" alt="Logo">
+██╗  ██╗ █████╗ ██╗███████╗
+██║ ██╔╝██╔══██╗██║██╔════╝
+█████╔╝ ███████║██║█████╗  
+██╔═██╗ ██╔══██║██║██╔══╝  
+██║  ██╗██║  ██║██║██║     
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     
+
 </p>
 
 <h1 align="center">Kaif Shaikh | Cybersecurity Portfolio</h1>
